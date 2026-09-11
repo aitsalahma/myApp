@@ -3,9 +3,9 @@
 
   "update": {
     "enabled": true,
-    "latest_version_code": 1,
-    "min_supported_version_code": 1,
-    "force": false,
+    "latest_version_code": 2,
+    "min_supported_version_code": 2,
+    "force": true,
     "title": "Update available",
     "message": "A new version of Sejda is available. Please update to continue using the latest features.",
     "store_url": "https://play.google.com/store/apps/details?id=com.sejda.pdf.tools.editorpdf"
