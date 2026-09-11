@@ -3,8 +3,8 @@
 
   "update": {
     "enabled": true,
-    "latest_version_code": 2,
-    "min_supported_version_code": 2,
+    "latest_version_code": 1,
+    "min_supported_version_code": 1,
     "force": true,
     "title": "Update available",
     "message": "A new version of Sejda is available. Please update to continue using the latest features.",
